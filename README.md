@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simeon Yordanov
 - 👀 I’m interested in learning new technologies and software development.
-- 🌱 I’m currently learning C#, C# Databases, JavaScript
+- 🌱 I’m currently learning C#, JavaScript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can email me at simeonjordanov8@gmail.com
 
